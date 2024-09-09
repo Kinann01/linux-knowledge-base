@@ -4,9 +4,14 @@ Welcome to the **Linux Knowledge Base** repository! This project aims to provide
 
 ## Sections
 
-...
-...
+The content and the structure of the repository is based on the following sources:
 
+- https://roadmap.sh/linux
+- https://d3s.mff.cuni.cz/teaching/nswi177/202324/
+- https://d3s.mff.cuni.cz/teaching/nswi106/reading/
+- Linux Kernel Development by Robert Love
+- Beginning Unix by Paul Love
+- Contributed content
 
 ## How to Contribute
 
